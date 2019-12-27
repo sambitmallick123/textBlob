@@ -1,2 +1,2 @@
 # textBlob
-1. Sentiment ANalysis using Text Blob 2. Multi Language Translation
+1. Sentiment Analysis 2. Multi Language Translation
